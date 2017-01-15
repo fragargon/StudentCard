@@ -107,8 +107,7 @@
         android:textStyle="bold"
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
-        android:layout_below="@id/t"
-        android:text="Y" />
+        android:layout_below="@id/t" />
 
     <TextView
         android:layout_width="wrap_content"
